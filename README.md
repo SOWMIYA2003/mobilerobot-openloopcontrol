@@ -56,7 +56,7 @@ if __name__ == '__main__':
     print("Completed ...")
     ep_robot.close()
 ```
-### Led Code:
+### LED Code:
 ```
 from robomaster import robot
 import time
